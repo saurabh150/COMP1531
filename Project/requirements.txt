@@ -1,0 +1,9 @@
+Flask==1.1.2
+flask_cors==3.0.10
+flask_mail==0.9.1
+Pillow==9.0.1
+PyJWT==2.3.0
+pytest==6.2.4
+requests==2.26.0
+string_utils==1.7.12
+Werkzeug==2.0.2
